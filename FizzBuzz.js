@@ -11,3 +11,8 @@ for (let i = 1; i <= numero; i++) {
         console.log(i);
     }
 }
+
+const s = 10;
+const d = 20;
+
+console.log(c);
