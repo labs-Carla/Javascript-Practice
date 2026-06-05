@@ -3,7 +3,7 @@ that are higher or equal than a and less or equal than b*/
 
 /* arr.filter(arr, a, b) */
 
-const filterRange = (arr, a ,b ) => {    
+const filterRange = (arr, a ,b) => {    
     return arr.filter(numero => {
         return numero >= a && numero <=b;})         
 }
